@@ -2,3 +2,4 @@
 
 print("Hello")
 ptint("beauty")
+print
