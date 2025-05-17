@@ -1,5 +1,3 @@
 # Project-1
 
-print("Hello")
-ptint("beauty")
-print
+Hello 
